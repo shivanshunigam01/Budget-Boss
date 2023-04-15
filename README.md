@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App 
+Click the link below to see the project :)
+http://budget-boss-react.s3-website-us-east-1.amazonaws.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
